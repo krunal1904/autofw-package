@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: autofw
+Version: 5.0.3
+Summary: Pytest plugin
+Home-page: https://github.com/krunal1904/autofw-package.git
+Author: krunal
+Author-email: krunalprajapati1904@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Framework :: Pytest
+License-File: LICENSE.txt

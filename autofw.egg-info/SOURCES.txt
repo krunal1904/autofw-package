@@ -1,0 +1,13 @@
+LICENSE.txt
+setup.py
+autofw/__init__.py
+autofw.egg-info/PKG-INFO
+autofw.egg-info/SOURCES.txt
+autofw.egg-info/dependency_links.txt
+autofw.egg-info/entry_points.txt
+autofw.egg-info/requires.txt
+autofw.egg-info/top_level.txt
+autofw/fixture_plugin/__init__.py
+autofw/fixture_plugin/a.py
+autofw/simple_plugin/__init__.py
+autofw/simple_plugin/b.py

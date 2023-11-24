@@ -1,0 +1,3 @@
+[pytest11]
+plugin1 = autofw.fixture_plugin.a
+plugin2 = autofw.simple_plugin.b
